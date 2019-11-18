@@ -1,0 +1,20 @@
+/*-------MAIN STYLING------*/
+
+body {
+  width:  80%;
+  max-width: 670px;
+  margin: auto;
+  background: #fafafa;
+  color: #333;
+  font-family: 'Domine', serif;
+}
+
+/*-------TYPOGRAPHY---------*/
+
+h1, h2, h3 {
+  font-weight: normal;
+  color: #8F0040;
+  text-align: center;
+}
+
+p {font-family: 'Roboto', sans-serif;}
